@@ -6,3 +6,4 @@
 - red onion
 - tomatoes
 - salt
+- lime juice
